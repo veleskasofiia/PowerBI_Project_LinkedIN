@@ -20,8 +20,3 @@ The dataset, sourced from Kaggle - "LinkedIn Job Postings (2023-2024)", is used 
 - Which industry has the highest employee count?
 - Which position receives the most applications on LinkedIn?
 
-# Visualization
-
-![](Final_Dashboard_Images/Final_Dashboard_1.png)
-
-![](Final_Dashboard_Images/Final_Dashboard_2.png)
